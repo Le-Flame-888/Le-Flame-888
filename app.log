@@ -1,0 +1,271 @@
+2025-01-19 21:13:31,246 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 21:13:31,247 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 21:13:31,248 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 21:13:31,440 - config - INFO - Database initialized successfully
+2025-01-19 21:13:31,867 - config - ERROR - Failed to initialize application: 'DatabaseConnection' object has no attribute 'execute'
+2025-01-19 21:16:46,505 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 21:16:46,505 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 21:16:46,506 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 21:16:46,510 - config - INFO - Database initialized successfully
+2025-01-19 21:16:46,513 - config - ERROR - Failed to initialize application: 'ReservationsTab' object has no attribute 'setup_ui'
+2025-01-19 21:20:36,199 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 21:20:36,200 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 21:20:36,200 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 21:20:36,202 - config - INFO - Database initialized successfully
+2025-01-19 21:20:36,389 - config - ERROR - Failed to initialize application: 'ReservationsTab' object has no attribute 'search_guest'
+2025-01-19 22:42:04,020 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 22:42:04,021 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 22:42:04,022 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 22:42:04,057 - config - INFO - Database initialized successfully
+2025-01-19 22:42:04,247 - config - ERROR - Failed to initialize application: 'ReservationsTab' object has no attribute 'search_guest'
+2025-01-19 22:43:16,750 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 22:43:16,750 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 22:43:16,751 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 22:43:16,753 - config - INFO - Database initialized successfully
+2025-01-19 22:43:16,944 - config - ERROR - Failed to initialize application: 'ReservationsTab' object has no attribute 'search_guest'
+2025-01-19 22:44:07,600 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 22:44:07,602 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 22:44:07,602 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 22:44:07,605 - config - INFO - Database initialized successfully
+2025-01-19 22:44:08,095 - config - ERROR - Failed to initialize application: 'ReservationsTab' object has no attribute 'create_reservation'
+2025-01-19 22:45:23,122 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-19 22:45:23,123 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-19 22:45:23,124 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-19 22:45:23,126 - config - INFO - Database initialized successfully
+2025-01-19 22:45:35,683 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-19 22:45:38,185 - config - INFO - Application initialized successfully
+2025-01-19 22:47:53,873 - config - ERROR - Error adding guest: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 18:47:23,486 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 18:47:23,488 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 18:47:23,488 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 18:47:23,526 - config - INFO - Database initialized successfully
+2025-01-21 18:48:01,953 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 18:48:03,681 - config - INFO - Application initialized successfully
+2025-01-21 20:00:29,730 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:00:29,731 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:00:29,732 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:00:29,736 - config - INFO - Database initialized successfully
+2025-01-21 20:00:35,281 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:00:36,910 - config - INFO - Application initialized successfully
+2025-01-21 20:08:00,126 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:08:00,127 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:08:00,128 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:08:00,130 - config - INFO - Database initialized successfully
+2025-01-21 20:08:06,150 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:08:08,519 - config - INFO - Application initialized successfully
+2025-01-21 20:08:36,603 - config - ERROR - Error adding guest: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:13:04,040 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:13:04,041 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:13:04,041 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:13:04,043 - config - INFO - Database initialized successfully
+2025-01-21 20:13:08,482 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:13:10,147 - config - INFO - Application initialized successfully
+2025-01-21 20:13:55,671 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:13:55,672 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:13:55,672 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:13:55,675 - config - ERROR - Database initialization failed: near "ALTER": syntax error
+2025-01-21 20:13:55,675 - config - ERROR - Failed to initialize application: near "ALTER": syntax error
+2025-01-21 20:15:14,450 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:15:14,451 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:15:14,452 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:15:14,460 - config - ERROR - Database initialization failed: You can only execute one statement at a time.
+2025-01-21 20:15:14,460 - config - ERROR - Failed to initialize application: You can only execute one statement at a time.
+2025-01-21 20:15:59,007 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:15:59,008 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:15:59,008 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:15:59,024 - config - ERROR - Database initialization failed: near ",": syntax error
+2025-01-21 20:15:59,025 - config - ERROR - Failed to initialize application: near ",": syntax error
+2025-01-21 20:49:09,392 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:49:09,393 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:49:09,394 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:49:09,397 - config - ERROR - Database initialization failed: no such column: "name"
+2025-01-21 20:49:09,397 - config - ERROR - Failed to initialize application: no such column: "name"
+2025-01-21 20:49:53,307 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:49:53,307 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:49:53,308 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:49:53,310 - config - ERROR - Database initialization failed: near ",": syntax error
+2025-01-21 20:49:53,310 - config - ERROR - Failed to initialize application: near ",": syntax error
+2025-01-21 20:50:02,787 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:50:02,788 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:50:02,788 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:50:02,791 - config - ERROR - Database initialization failed: near ",": syntax error
+2025-01-21 20:50:02,791 - config - ERROR - Failed to initialize application: near ",": syntax error
+2025-01-21 20:54:39,705 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:54:39,706 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:54:39,706 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:54:39,708 - config - INFO - Database initialized successfully
+2025-01-21 20:54:43,324 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:54:45,418 - config - INFO - Application initialized successfully
+2025-01-21 20:55:13,973 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:55:13,974 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:55:13,974 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:55:13,976 - config - INFO - Database initialized successfully
+2025-01-21 20:55:23,370 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:55:25,015 - config - INFO - Application initialized successfully
+2025-01-21 20:55:51,995 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 20:55:51,996 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 20:55:51,997 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 20:55:51,999 - config - INFO - Database initialized successfully
+2025-01-21 20:56:11,252 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 20:56:12,652 - config - INFO - Application initialized successfully
+2025-01-21 21:04:10,148 - config - INFO - Database initialized successfully
+2025-01-21 21:04:10,154 - config - ERROR - Failed to migrate guests table: no such column: name
+2025-01-21 21:04:28,289 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 21:04:28,289 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 21:04:28,290 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 21:04:28,292 - config - INFO - Database initialized successfully
+2025-01-21 21:04:32,569 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 21:04:33,880 - config - INFO - Application initialized successfully
+2025-01-21 22:59:09,776 - config - INFO - Database initialized successfully
+2025-01-21 22:59:09,777 - config - ERROR - Failed to migrate guests table: table guests_new already exists
+2025-01-21 22:59:35,453 - config - INFO - Database initialized successfully
+2025-01-21 22:59:35,454 - config - ERROR - Failed to migrate guests table: table guests_new already exists
+2025-01-21 23:00:12,240 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:00:12,241 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:00:12,242 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:00:12,244 - config - INFO - Database initialized successfully
+2025-01-21 23:00:19,296 - config - ERROR - Error loading guests: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 23:00:21,332 - config - INFO - Application initialized successfully
+2025-01-21 23:00:48,674 - config - ERROR - Error adding guest: 'DatabaseConnection' object has no attribute 'cursor'
+2025-01-21 23:08:13,826 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:08:13,827 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:08:13,828 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:08:13,829 - config - INFO - Database initialized successfully
+2025-01-21 23:08:17,097 - config - ERROR - Error loading guests: no such column: name
+2025-01-21 23:08:19,015 - config - INFO - Application initialized successfully
+2025-01-21 23:08:41,575 - config - ERROR - Error adding guest: table guests has no column named name
+2025-01-21 23:08:44,521 - config - ERROR - Error adding guest: table guests has no column named name
+2025-01-21 23:08:52,091 - config - ERROR - Error adding guest: table guests has no column named name
+2025-01-21 23:08:54,992 - config - ERROR - Error adding guest: table guests has no column named name
+2025-01-21 23:11:06,939 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:11:06,940 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:11:06,940 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:11:06,942 - config - INFO - Database initialized successfully
+2025-01-21 23:11:10,514 - config - ERROR - Error loading guests: no such column: name
+2025-01-21 23:11:12,637 - config - INFO - Application initialized successfully
+2025-01-21 23:11:43,375 - config - ERROR - Error adding guest: 'first_name'
+2025-01-21 23:18:57,328 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:18:57,328 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:18:57,329 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:18:57,330 - config - INFO - Database initialized successfully
+2025-01-21 23:19:00,215 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:19:01,814 - config - INFO - Application initialized successfully
+2025-01-21 23:20:59,618 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:20:59,618 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:20:59,619 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:20:59,621 - config - INFO - Database initialized successfully
+2025-01-21 23:21:01,515 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:21:03,046 - config - INFO - Application initialized successfully
+2025-01-21 23:22:29,911 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:22:29,911 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:22:29,912 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:22:29,913 - config - INFO - Database initialized successfully
+2025-01-21 23:22:32,603 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:22:34,495 - config - INFO - Application initialized successfully
+2025-01-21 23:23:29,700 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:23:29,701 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:23:29,702 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:23:29,704 - config - INFO - Database initialized successfully
+2025-01-21 23:23:32,714 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:23:34,056 - config - INFO - Application initialized successfully
+2025-01-21 23:24:52,625 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:24:52,626 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:24:52,627 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:24:52,629 - config - INFO - Database initialized successfully
+2025-01-21 23:24:54,554 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:24:55,697 - config - INFO - Application initialized successfully
+2025-01-21 23:26:03,885 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:26:03,886 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:26:03,887 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:26:03,889 - config - INFO - Database initialized successfully
+2025-01-21 23:26:06,391 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:26:07,776 - config - INFO - Application initialized successfully
+2025-01-21 23:26:41,313 - config - ERROR - Error adding guest: table guests has no column named first_name
+2025-01-21 23:28:53,164 - config - ERROR - Error adding guest: table guests has no column named first_name
+2025-01-21 23:28:57,217 - config - ERROR - Error adding guest: table guests has no column named first_name
+2025-01-21 23:32:13,066 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\data
+2025-01-21 23:32:13,067 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\backup
+2025-01-21 23:32:13,067 - config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\reports
+2025-01-21 23:32:13,069 - config - INFO - Database initialized successfully
+2025-01-21 23:32:15,655 - config - ERROR - Error loading guests: no such column: first_name
+2025-01-21 23:32:17,174 - config - INFO - Application initialized successfully
+2025-01-21 23:32:49,353 - config - ERROR - Error adding guest: table guests has no column named first_name
+2025-01-21 23:32:52,311 - config - ERROR - Error adding guest: table guests has no column named first_name
+2025-01-21 23:40:42,211 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-21 23:40:42,212 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-21 23:40:42,213 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-21 23:40:42,234 - database.config - INFO - Database initialized successfully
+2025-01-21 23:40:42,943 - database.config - INFO - Application initialized successfully
+2025-01-22 17:58:46,597 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 17:58:46,597 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 17:58:46,597 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 17:58:46,640 - database.config - INFO - Database initialized successfully
+2025-01-22 17:58:47,714 - database.config - INFO - Application initialized successfully
+2025-01-22 18:07:21,712 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:07:21,712 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:07:21,712 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:07:21,728 - database.config - INFO - Database initialized successfully
+2025-01-22 18:07:23,252 - database.config - ERROR - Failed to initialize application: bad window path name "Guests"
+2025-01-22 18:07:34,007 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:07:34,008 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:07:34,009 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:07:34,011 - database.config - INFO - Database initialized successfully
+2025-01-22 18:07:34,914 - database.config - ERROR - Failed to initialize application: bad window path name "Guests"
+2025-01-22 18:07:56,110 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:07:56,111 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:07:56,112 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:07:56,115 - database.config - INFO - Database initialized successfully
+2025-01-22 18:07:57,239 - database.config - INFO - Application initialized successfully
+2025-01-22 18:17:34,424 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:17:34,424 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:17:34,424 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:17:34,424 - database.config - INFO - Database initialized successfully
+2025-01-22 18:17:35,385 - database.config - INFO - Application initialized successfully
+2025-01-22 18:24:10,313 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:24:10,314 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:24:10,315 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:24:10,315 - database.config - INFO - Database initialized successfully
+2025-01-22 18:24:11,685 - database.config - INFO - Application initialized successfully
+2025-01-22 18:29:21,280 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:29:21,282 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:29:21,282 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:29:21,285 - database.config - INFO - Database initialized successfully
+2025-01-22 18:29:22,615 - database.config - INFO - Application initialized successfully
+2025-01-22 18:32:07,788 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:32:07,791 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:32:07,792 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:32:07,794 - database.config - INFO - Database initialized successfully
+2025-01-22 18:32:08,718 - database.config - INFO - Application initialized successfully
+2025-01-22 18:32:41,187 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:32:41,189 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:32:41,190 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:32:41,191 - database.config - INFO - Database initialized successfully
+2025-01-22 18:32:42,125 - database.config - INFO - Application initialized successfully
+2025-01-22 18:37:31,366 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:37:31,367 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:37:31,367 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:37:31,369 - database.config - INFO - Database initialized successfully
+2025-01-22 18:37:31,975 - database.config - INFO - Application initialized successfully
+2025-01-22 18:41:11,165 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:41:11,166 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:41:11,167 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:41:11,170 - database.config - INFO - Database initialized successfully
+2025-01-22 18:41:11,882 - database.config - INFO - Application initialized successfully
+2025-01-22 18:42:24,467 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:42:24,469 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:42:24,469 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:42:24,473 - database.config - INFO - Database initialized successfully
+2025-01-22 18:42:25,175 - database.config - INFO - Application initialized successfully
+2025-01-22 18:45:53,930 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:45:53,932 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:45:53,933 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:45:53,935 - database.config - INFO - Database initialized successfully
+2025-01-22 18:45:54,574 - database.config - INFO - Application initialized successfully
+2025-01-22 18:51:34,011 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\data
+2025-01-22 18:51:34,012 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\backup
+2025-01-22 18:51:34,012 - database.config - INFO - Created directory: c:\Users\USER\OneDrive\Desktop\hotel-management-2\database\reports
+2025-01-22 18:51:34,014 - database.config - INFO - Database initialized successfully
+2025-01-22 18:51:34,646 - database.config - INFO - Application initialized successfully
+2025-01-22 18:51:55,598 - database.config - ERROR - Error creating reservation: 'sqlite3.Connection' object has no attribute 'get_connection'
+2025-01-22 18:52:19,448 - database.config - ERROR - Error creating reservation: 'sqlite3.Connection' object has no attribute 'get_connection'
+2025-01-22 18:52:34,313 - database.config - ERROR - Error creating reservation: 'sqlite3.Connection' object has no attribute 'get_connection'
